@@ -10,7 +10,7 @@ Fun Time Christmas Theme True/False Game" is a project built using Material-UI (
 
 # 🏠 Home page
 
-![Screenshot 2023-12-29 180841](https://github.com/kondapalli19/Christmas_2023/assets/101511737/240eac50-ed9b-4b6f-83e1-8328f4866d36)
+![image](https://github.com/kondapalli19/fun-time/assets/101511737/b867b63a-ca48-4460-bac7-9ffc867bbcf4)
 
 # 🙏 Credits
 
